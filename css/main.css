@@ -6,11 +6,6 @@
   box-sizing: border-box;
 }
 
-html,
-body {
-  overflow: auto;
-  height: 100%;
-}
 
 /* CSS changed by JS - Themes  (Colors)*/
 body {
